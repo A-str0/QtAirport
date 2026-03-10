@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AircraftList>
+    <Aircraft>
+        <Id>1</Id>
+        <Model>Boeing 737-800</Model>
+        <Capacity>189</Capacity>
+        <Airline>Аэрофлот</Airline>
+    </Aircraft>
+    <Aircraft>
+        <Id>2</Id>
+        <Model>Airbus A320</Model>
+        <Capacity>150</Capacity>
+        <Airline>S7 Airlines</Airline>
+    </Aircraft>
+    <Aircraft>
+        <Id>3</Id>
+        <Model>Boeing 777-300ER</Model>
+        <Capacity>400</Capacity>
+        <Airline>Emirates</Airline>
+    </Aircraft>
+    <Aircraft>
+        <Id>4</Id>
+        <Model>Airbus A350-900</Model>
+        <Capacity>325</Capacity>
+        <Airline>Qatar Airways</Airline>
+    </Aircraft>
+    <Aircraft>
+        <Id>5</Id>
+        <Model>Boeing 787-9 Dreamliner</Model>
+        <Capacity>290</Capacity>
+        <Airline>Turkish Airlines</Airline>
+    </Aircraft>
+    <Aircraft>
+        <Id>6</Id>
+        <Model>Sukhoi Superjet 100</Model>
+        <Capacity>98</Capacity>
+        <Airline>Rossiya Airlines</Airline>
+    </Aircraft>
+    <Aircraft>
+        <Id>7</Id>
+        <Model>Airbus A321neo</Model>
+        <Capacity>220</Capacity>
+        <Airline>Ural Airlines</Airline>
+    </Aircraft>
+</AircraftList>
